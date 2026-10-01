@@ -1,0 +1,9 @@
+# Anything that can change a limit, size, gate or the paper-only guard needs owner review.
+/config/                           @mobei85
+/strategy.md                       @mobei85
+/docs/spec.md                      @mobei85
+/src/bot/core/risk.py              @mobei85
+/src/bot/core/sizing.py            @mobei85
+/src/bot/broker/paper_guard.py     @mobei85
+/src/bot/backtest/gates.py         @mobei85
+/.github/                          @mobei85

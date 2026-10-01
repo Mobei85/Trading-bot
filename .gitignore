@@ -1,0 +1,21 @@
+# Market data: Norgate data is licensed for personal use, never commit it
+data/
+*.parquet
+*.csv.gz
+
+# Secrets
+.env
+.env.*
+
+# Runtime state
+*.db
+*.db-wal
+*.db-shm
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.hypothesis/
